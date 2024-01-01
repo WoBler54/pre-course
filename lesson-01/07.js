@@ -1,4 +1,4 @@
-​let iAm = 'я';
-let krasavchik = "красавчик!";
+const iAm = 'я';
+const krasavchik = "красавчик!";
 
 console.log(iAm.toUpperCase() + ' ' + krasavchik);
