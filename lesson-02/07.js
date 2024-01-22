@@ -1,8 +1,7 @@
 let passportMarried = {
     name: "Petr",
     surname: "Petrov",
-    married: true,
-    address: {
+       address: {
         country: "USA",
         city: "Bobryisk"
     }
@@ -21,6 +20,6 @@ for(let key in passportMarried){
     }
 }
 
-passportMarried2.married = false;
+passportMarried2.married = true;
 console.log(passportMarried);
 console.log(passportMarried2);
