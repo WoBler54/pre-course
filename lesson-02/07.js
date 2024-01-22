@@ -1,13 +1,13 @@
 let passportMarried = {
     name: "Petr",
     surname: "Petrov",
+    married: true,
     address: {
         country: "USA",
         city: "Bobryisk"
     }
 };
 
-passportMarried.married = true;
 
 let passportMarried2 = {};
 
